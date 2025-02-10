@@ -64,7 +64,3 @@ app.delete("/usuarios/:id", async (req, res) => {
 });
 
 app.listen(3000);
-
-/* 
-4IPOK8RTE1S7QPWU
-*/
